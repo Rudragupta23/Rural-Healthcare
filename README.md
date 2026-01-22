@@ -1,6 +1,6 @@
 # Rural Healthcare Platform - Bridging the Gap in Care ✨
 
-A comprehensive, offline-first telemedicine platform designed to revolutionize healthcare delivery in rural India. The Rural Healthcare Platform provides a seamless, intuitive, and accessible experience for patients and doctors, featuring real-time health monitoring, appointment management, and community health initiatives. Built with a modern tech stack including React, Vite, TypeScript, and shadcn/ui for a fast, responsive, and multilingual experience.
+A comprehensive, offline-first telemedicine platform designed to revolutionize healthcare delivery in rural India. The Rural Healthcare Platform provides a seamless, intuitive, and accessible experience for patients and doctors, featuring real-time health monitoring, appointment management, and community health initiatives. Built with a modern tech stack including React, Vite, TypeScript, and shadcn/ui for a fast, responsive, and multi language experience.
 
 Website link - [www.rural-healthcare.com](https://rural-healthcare.netlify.app/)
 
