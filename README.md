@@ -8,11 +8,11 @@ Website link - [www.rural-healthcare.com](https://rural-healthcare.netlify.app/)
 
 * **Multilingual Support**: Fully accessible in English and Hindi, ensuring that language barriers do not prevent users from seeking medical care.
 * **Online Consultation**: Connect with healthcare professionals through video calls, voice calls, or secure chat, making expert advice available anywhere.
-* **Health Campaigns**: A dedicated module for tracking and joining community initiatives like blood donation drives, free checkup camps, and vaccination programs.
+* **Health Campaigns**: A dedicated module for tracking and joining community initiatives like blood donation drives, free checkup camps and vaccination programs.
 * **Comprehensive Directory**: A verified list of hospitals and doctors to help rural residents find the nearest qualified providers.
 * **Emergency Helpline**: Quick access to emergency services (108) and 24/7 medical assistance.
 * **Accessibility Focused**: Features an accessibility bar for font adjustments and language switching, built specifically for diverse users.
-* **User Dashboard**: Tailored views for Patients and Doctors to track consultations, joined campaigns, and health stats.
+* **User Dashboard**: Tailored views for Patients and Doctors to track consultations, joined campaigns and health stats.
 * **Donation & Transparency**: A secure system for supporting rural healthcare with clear reporting on how funds are utilized.
 
 ## 🏥 Our Services
